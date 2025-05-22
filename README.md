@@ -1,5 +1,5 @@
 # CNC-Cost-Estimation
-# CNC Cost Estimation 📐💰
+
 
 ## 🔍 Overview
 This project aims to build a simple machine learning model to estimate the CNC machining cost of a part using features such as material, dimensions, and derived metrics like volume and surface area.
